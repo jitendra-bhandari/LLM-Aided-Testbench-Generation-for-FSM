@@ -2,7 +2,7 @@
 
 
 
-**Design**|**FSM**| | | |**% Coverage**| |**State Registers**|**I/O pairs**|**Fuzzing**
+**Design**|**FSM**   |**% Coverage**| |**State Registers**|**I/O pairs**|**Fuzzing**
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
  |i/o|o/p|states|Iterations|Iter,0|This work| | | 
 FSM1|2|1|2|2|50|100|5|11|13
