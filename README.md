@@ -1,10 +1,11 @@
 # LLM-Aided-Testbench-Generation-for-Finite-State-Machines
 
 
-**Design**|**FSM**| | | |**% Coverage**| |**State Registers**|**I/O pairs**|**Fuzzing**
-:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
- |i/o|o/p|states|Iterations|Iter,0|This work| | | 
-FSM1|2|1|2|2|50|100|5|11|13
+| Design |       FSM       |             |         | % Coverage | State Registers | I/O pairs | Fuzzing |
+|--------|-----------------|-------------|---------|------------|------------|-----------------|-----------|---------|
+|        | i/o | o/p | states | Iterations | Iter,0 | This work  |            |                 |           |         |
+| FSM1   |  2  |  1  |   2    |      2     |   50   |     100    |      5     |       11        |    13     |
+
 FSM2|1|2|2|1|100|100|4|12|8
 FSM3|2|2|2|1|100|100|6|14|16
 FSM4|2|2|2|1|100|100|6|13|15
