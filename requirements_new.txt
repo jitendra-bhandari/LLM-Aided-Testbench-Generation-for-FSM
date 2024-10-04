@@ -1,0 +1,8 @@
+google-ai-generativelanguage
+google-api-core
+google-auth
+google-generativeai
+googleapis-common-protos
+openai
+anthropic
+
