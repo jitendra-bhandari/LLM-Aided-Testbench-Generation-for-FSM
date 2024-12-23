@@ -56,3 +56,17 @@ To use the tool, follow the steps below:
 ![Sample Image](./table1.JPG)
 ![Sample Image](./rest_50.jpg)
 
+## Citing LLM-Aided Testbench Generation
+
+If you use this in your research or project, please cite it using the following BibTeX entry:
+
+```bibtex
+@misc{bhandari2024llmaidedtestbenchgenerationbug,
+      title={LLM-Aided Testbench Generation and Bug Detection for Finite-State Machines}, 
+      author={Jitendra Bhandari and Johann Knechtel and Ramesh Narayanaswamy and Siddharth Garg and Ramesh Karri},
+      year={2024},
+      eprint={2406.17132},
+      archivePrefix={arXiv},
+      primaryClass={cs.AR},
+      url={https://arxiv.org/abs/2406.17132}, 
+}
