@@ -38,7 +38,7 @@ To use the tool, follow the steps below:
 
 2. Run the tool with the necessary arguments:
 ```sh
-./auto_create_verilog.py [--help] --prompt=<prompt>  --model=<llm model> --model_id=<model id> --log=<log file>
+./auto_create_response.py [--help] --prompt=<prompt>  --model=<llm model> --model_id=<model id> --log=<log file>
 ```
 ### Arguments
  - `-h|--help`: Prints this usage message
