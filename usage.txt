@@ -1,0 +1,11 @@
+Usage: auto_create_verilog.py [--help] --prompt=<prompt>  --model=<llm model> --log=<log file>
+
+        -h|--help: Prints this usage message
+
+        -p|--prompt: The initial design prompt for the Verilog module
+
+        -m|--model: [Optional] The LLM to use for this generation. Must be one of the following
+                - ChatGPT3p5 (default)
+                - ChatGPT4
+
+        -l|--log: [Optional] Log the output of the model to the given file
