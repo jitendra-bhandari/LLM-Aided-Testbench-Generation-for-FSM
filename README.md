@@ -38,7 +38,7 @@ To use the tool, follow the steps below:
 
 2. Run the tool with the necessary arguments:
 ```sh
-./auto_create_response.py [--help] --prompt=<prompt>  --model=<llm model> --model_id=<model id> --log=<log file>
+python testbench_generation.py FSM1/2012_q2b.v --api_key [XXXX]
 ```
 ### Arguments
  - `-h|--help`: Prints this usage message
